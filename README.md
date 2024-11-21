@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone <[REPOSITORY_URL](https://github.com/varshith5577/RBAC-UI.git)>
+   git clone <(https://github.com/varshith5577/RBAC-UI.git)>
    ```
 
 2. **Install dependencies**:
